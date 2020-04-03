@@ -1,0 +1,112 @@
+﻿@model AlquilerDeLibros.Models.Materia
+
+@{
+    ViewBag.Title = "Materia";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+
+
+<div class="container-fluid">
+
+    <div class="row">
+        <!--PRIMERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/PRIMERA COLUMNA-->
+        <!--SEGUNDA COLUMNA-->
+        <div class="col-lg-8 col-6">
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">Detalle de Materia</h3>
+                </div>
+                <form class="form-horizontal">
+
+                    <div class="card-body">
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.CodigoDeMateria,new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-10">
+                                @Html.EditorFor(m => m.CodigoDeMateria,new { HtmlAttributes = new { @class = "form-control",@disabled ="disabled" } })
+                                @Html.ValidationMessageFor(model => model.CodigoDeMateria,"",new { @class = "text-danger" })
+
+                            </div>
+                        </div>
+
+                        <!--CONTRASEÑA-->
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.DescripcionDeMateria,new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-10">
+                                @Html.EditorFor(model => model.DescripcionDeMateria,new { htmlAttributes = new { @class = "form-control",@disabled = "disabled" } })
+                                @Html.ValidationMessageFor(model => model.DescripcionDeMateria,"",new { @class = "text-danger" })
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--FOOTER-->
+                    <div class="card-footer float-left">
+                        <a class="btn btn-info" href="@Url.Action("Index","Materias")">Regresar</a>
+                    </div>
+                    <div class="card-footer float-right">
+                        <a class="btn btn-info" href="@Url.Action("Edit","Materias", new { id = Model.Id })">Editar</a>
+                    </div>
+                    <!--/FOOTER-->
+
+
+
+                </form>
+            </div>
+        </div>
+
+
+        <!--TERCERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/TERCERA COLUMNA-->
+    </div>
+</div>
+
+
+
+
+
+@*<div>
+    <h4>Materia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoDeMateria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoDeMateria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescripcionDeMateria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescripcionDeMateria)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar","Edit",new { id = Model.Id }) |
+    @Html.ActionLink("Regresar a la lista","Index")
+</p>*@

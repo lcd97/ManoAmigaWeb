@@ -1,0 +1,143 @@
+﻿@model IEnumerable<AlquilerDeLibros.Models.Materia>
+
+@{
+    ViewBag.Title = "Lista de Materias";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+<p>
+    <a class="btn btn-success" href="@Url.Action("Create")" role="button">Añadir Nuevo</a>
+</p>
+
+@Styles.Render("~/Content/datatablecss")
+
+<div class="table-responsive">
+    <table class="table table-condensed table-bordered table-hover table-striped display dataTable_width_auto" id="tablaMaterias">
+        <thead style="background-color:#337ab7; color:white;">
+            <tr>
+                <th>
+
+                    @Html.DisplayNameFor(model => model.CodigoDeMateria)
+                </th>
+                <th>
+
+                    @Html.DisplayNameFor(model => model.DescripcionDeMateria)
+                </th>
+                <th>
+                    Acciones
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodigoDeMateria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DescripcionDeMateria)
+                    </td>
+                    <td>
+                        @*<a class="btn btn-outline-primary" onclick="CargarParcial('@Url.Action("Edit", new { id = item.Id})')" role="button"><i class="fas fa-pencil-alt"></i></a>*@
+                        <a class="btn btn-outline-primary" href="@Url.Action("Create",new {id=item.Id })" role="button"><i class="fas fa-user-edit"></i></a>
+                        <a class="btn btn-outline-info" href="@Url.Action("Details",new {id=item.Id })" role="button"><i class="fas fa-eye"></i></a>
+                        <a class="btn btn-outline-danger" href="@Url.Action("Delete",new {id=item.Id })" role="button"><i class="fas fa-trash-alt"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!--MODAL DE PRUEBA
+<div class="modal" id="modal-default" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="VistaParcial">
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+        </div>
+    </div>
+</div>-->
+
+
+
+@section scripts{
+
+    @Scripts.Render("~/bundles/datatablejs")
+
+    <script>
+        //carga el DataTable Clientes
+
+        var dataTable = null;
+        $(function () {
+
+            dataTable = $("#tablaMaterias").DataTable({
+                "sDom": '<<"row view-filter"<"col-sm-12"<"pull-left"f><"pull-right"l>>>t<"row view-pager "<"col-sm-12"<"pull-left"i><"pull-right "p>>>>',
+                "iDisplayLength": 5,
+                "order": [],
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+            });
+        });
+
+        //function CargarParcial(url) {
+        //    $("#modal-default").modal("show");
+        //    $("#VistaParcial").html("");
+        //    $.ajax({
+        //        "type": "GET",
+        //        "url": url,
+        //        success: function (parcial) {
+        //            console.log("Mike se la come doblada   ->" + parcial)
+        //            $("#VistaParcial").html(parcial);
+        //        }
+        //    });
+        //}
+    </script>
+
+
+}

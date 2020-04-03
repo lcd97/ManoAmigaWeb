@@ -1,0 +1,99 @@
+﻿@model IEnumerable<AlquilerDeLibros.Models.Libro>
+
+@{
+    WebGrid eGrd = new WebGrid(Model, canPage: true, rowsPerPage: 10, ajaxUpdateContainerId: "bdvGrid", canSort: false);
+}
+
+<div class="form-horizontal">
+
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("Titulo:")
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("Titulo", null, new { id = "bTitulo", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("Autor:")
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("Autor", null, new { id = "bAutor", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+
+    <div class="row">
+        <div class="col-md-4">
+            @Ajax.ActionLink("Buscar", "Busqueda", "libros", new { Titulo = "_Titu_", Autor = "_Auto_" }, new AjaxOptions { UpdateTargetId = "VistaParcial", HttpMethod = "Get", InsertionMode = InsertionMode.Replace }, new { @class = "btn btn-info", id = "linkBuscarLi", onclick = "btnBuscarLi();" })
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("CliSeleccionado", null, new { id = "CliSeleccionado", disabled = "disabled", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+
+
+
+    @*Tabla Libros*@
+
+    <div class="table-responsive">
+        <table class="table table-condensed table-bordered table-hover table-striped display dataTable_width_auto" id="tablaLibro">
+            <thead style="background-color:#337ab7; color:white;">
+                <tr>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.CodigoDeLibro)
+                    </th>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.TituloDeLibro)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Materia.DescripcionDeMateria)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ISBN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Autor)
+                    </th>
+                    <th>
+                        Acciones
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CodigoDeLibro)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TituloDeLibro)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Materia.DescripcionDeMateria)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ISBN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Autor)
+                        </td>
+                        <td>
+                            <a class="btn btn-primary" href="@Url.Action("Edit",new {id=item.Id })" role="button"><i class="fas fa-pencil-alt"></i></a>
+                            <a class="btn btn-danger" href="@Url.Action("Delete",new {id=item.Id })" role="button"><i class="fas fa-trash-alt"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+

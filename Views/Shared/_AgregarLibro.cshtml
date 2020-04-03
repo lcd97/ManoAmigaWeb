@@ -1,0 +1,85 @@
+﻿@model AlquilerDeLibros.Models.CopiaAlquiler
+@{
+    ViewBag.Title = "";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="row">
+            <div class="col-sm-6">
+                @Html.LabelFor(model => model.Libro.Id, "Libro", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.DropDownList("LibroId", null, "Selecione un Libro", htmlAttributes: new { @class = "form-control", @id = "cmblibro" })
+                    @Html.ValidationMessageFor(model => model.Libro.Id, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                @Html.Label("Copia", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.DropDownList("CopiaId", null, "Seleccione", htmlAttributes: new { @class = "form-control", @id = "cmbcopia" })
+                    @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@*Script para cargar las copias de un libro disponible*@
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script>
+ $(document).ready(function () {
+
+     $("#cmblibro").change(function () {
+         cambiaElementos_Carrera($("#cmblibro").val());
+         if ($("#cmblibro").val() == 0) {
+             //btn.disabled = true;
+         }
+     });
+
+     $("#cmbcopia").change(function () {
+             //btn.disabled = false;
+     });
+
+         var car = document.getElementById("cmbcopia");
+         car.options.length = 0;
+         car.options[0] = new Option("--Seleccione una Copia--");
+         car.disabled = true;
+         var btn = document.getElementById("BtnG");
+         //btn.disabled = true;
+
+         function cambiaElementos_Carrera(FacultadId) {
+
+             var car = document.getElementById("cmbcopia");
+             car.options.length = 0;
+             car.options[0] = new Option(Text="--Seleccione una copia--",value="0");
+             car.selectedIndex = 1;
+             car.disabled = false;
+
+
+             $.ajax({
+                 url: '@Url.Action("GetElementsCopias", "Prestamos")',
+
+                data: { id: FacultadId },
+                success: function (data) {
+
+                for (var i = 0; i < data.rows.length; i++) {
+                    car.options[i + 1] = new Option(Text = data.rows[i].NumeroCopia, value = data.rows[i].id);
+                }
+                car.disabled = false;
+
+                if (i == 0) {
+                car.options[0] = new Option("Copias No Disponibles");
+                }
+                Edif = $("#cmbcopia option:selected").html();
+                }
+                });
+                }
+
+ });
+</script>

@@ -1,0 +1,111 @@
+﻿@model AlquilerDeLibros.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Registro de Usuarios";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+
+<div class="container-fluid">
+
+    <div class="row">
+        <!--PRIMERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/PRIMERA COLUMNA-->
+        <!--SEGUNDA COLUMNA-->
+        <div class="col-lg-8 col-6">
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">Registro</h3>
+                </div>
+                @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary("", new { @class = "text-danger" })
+                    <form class="form-horizontal">
+
+                        <div class="card-body">
+                            <div class="form-group row">
+                                @Html.LabelFor(m => m.Email, new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", id = "inputEmail3", @placeholder = "Email" })
+                                </div>
+                            </div>
+
+                            <!--CONTRASEÑA-->
+                            <div class="form-group row">
+                                @Html.LabelFor(m => m.Password, new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", id = "inputPassword3", placeholder = "Contraseña" })
+                                </div>
+                            </div>
+
+                            <!--CONTRASEÑA CONFIRMED-->
+                            <div class="form-group row">
+                                @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", id = "inputPassword3", placeholder = "Confirmar contraseña" })
+                                </div>
+                            </div>
+
+                            @*//AGREGANDO EL TIPO DE ROL DEL USUARIO*@
+                            <div class="form-group row">
+                                @Html.Label("Tipo de Permiso", new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.DropDownList("Permiso", (SelectList)ViewBag.LstRole, htmlAttributes: new { @class = "form-control" })
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--FOOTER-->
+                        <div class="card-footer float-right">
+                            <input type="submit" class="btn btn-info" value="Registrar" />
+                        </div>
+                        <!--/FOOTER-->
+
+
+
+                    </form>
+                }
+            </div>
+        </div>
+
+
+        <!--TERCERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/TERCERA COLUMNA-->
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/plugins/jquery/jquery.min.js"></script>
+    <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/dist/js/adminlte.min.js"></script>
+    <link href="~/plugins/select2/css/select2.min.css" rel="stylesheet" />
+    <script src="~/plugins/select2/js/select2.min.js"></script>
+    @*<script>
+        $(function () {
+            //cargar select2
+            $("#Permiso").select2({width: "100%" })
+        })
+    </script>*@
+
+
+}                 

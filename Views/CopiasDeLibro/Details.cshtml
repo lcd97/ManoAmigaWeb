@@ -1,0 +1,112 @@
+﻿@model AlquilerDeLibros.Models.CopiaDeLibro
+
+@{
+    ViewBag.Title = "Copia de Libro";
+}
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+<div class="container-fluid">
+
+    <div class="row">
+        <!--PRIMERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/PRIMERA COLUMNA-->
+        <!--SEGUNDA COLUMNA-->
+        <div class="col-lg-8 col-6">
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">Detalle de Copia de Libro</h3>
+                </div>
+                <form class="form-horizontal">
+
+                    <div class="card-body">
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.NumeroCopia,new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-10">
+                                @Html.EditorFor(m => m.NumeroCopia,new { HtmlAttributes = new { @class = "form-control",@disabled = "disabled" } })
+                                @Html.ValidationMessageFor(model => model.NumeroCopia,"",new { @class = "text-danger" })
+
+                            </div>
+                        </div>
+
+                        <!--CONTRASEÑA-->
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.Libro.TituloDeLibro,new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-10">
+                                @Html.EditorFor(model => model.Libro.TituloDeLibro,new { htmlAttributes = new { @class = "form-control",@disabled = "disabled" } })
+                                @Html.ValidationMessageFor(model => model.Libro.TituloDeLibro,"",new { @class = "text-danger" })
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--FOOTER-->
+                    <div class="card-footer float-left">
+                        <a class="btn btn-info" href="@Url.Action("Index","CopiasDeLibro")">Regresar</a>
+                    </div>
+                    <div class="card-footer float-right">
+                        <a class="btn btn-info" href="@Url.Action("Edit","CopiasDeLibro")">Editar</a>
+                    </div>
+                    <!--/FOOTER-->
+
+
+
+                </form>
+            </div>
+        </div>
+
+
+        <!--TERCERA COLUMNA-->
+        <div class="col-lg-2 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/TERCERA COLUMNA-->
+    </div>
+</div>
+
+
+
+
+@*<h2>Details</h2>
+
+    <div>
+        <h4>CopiaDeLibro</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Libro.TituloDeLibro)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Libro.TituloDeLibro)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NumeroCopia)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NumeroCopia)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@

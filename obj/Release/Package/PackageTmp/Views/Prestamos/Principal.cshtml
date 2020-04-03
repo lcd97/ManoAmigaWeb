@@ -1,0 +1,226 @@
+﻿@model IEnumerable<AlquilerDeLibros.Models.DetalleAlquiler>
+
+@Styles.Render("~/Content/datatablecss")
+
+
+@{
+    ViewBag.Title = "Préstamos de Libros";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+@using (Html.BeginForm("Principal", "Prestamos", FormMethod.Get))
+{
+    <div class="col-md-offset-3">
+
+        <div class="row">
+            <div class="col-lg-4 offset-5">
+                <div class="col-lg-12 col-6">
+                    @*@Html.Label("Codigo de cliente:")*@
+                    <div class="row">
+                        <div class="col-sm-6">
+                            @Html.TextBox("CodE", null, new { @class = "form-control", @placeholder = "Código de Cliente" })
+                        </div>
+                        <div class="col-sm-1">
+                            <button type="button" id="btnBuscar" class="btn btn-primary" title="Búscar Cliente" data-toggle="modal" data-target="#bModal">
+                                <spam class="fa fa-search"></spam>
+                            </button>
+                        </div>
+                        <div class="col-lg-12">
+                            <input type="submit" id="cargar" class="btn btn-info" value="Cargar" data-toggle="tooltip" title="Cargar los alquileres del cliente" style="margin-top:5px" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-5">
+                @if (ViewBag.Codigo != "")
+                {
+                    <a class="btn btn-success" href="@Url.Action("Index", new { pCodE = @ViewBag.Codigo})" role="button">Añadir Nuevo</a>
+                }
+            </div>
+            <br />
+            <div class="col-md-2" style="text-align:center">
+                <span id="NombCompleto">@ViewBag.NombCompleto</span>
+            </div>
+        </div>
+        <br /><br />
+
+        @*TablaPrestamos*@
+
+        <div class="table-responsive">
+            <table class="table table-condensed table-bordered table-hover table-striped display dataTable_width_auto" id="tablaPrestamo">
+                <thead style="background-color:#337ab7; color:white;">
+                    <tr>
+                        <th style="width:5%">
+                            Codigo
+                        </th>
+                        <th style="width:20%">
+                            Fecha Alquiler
+                        </th>
+                        <th style="width:20%">
+                            Fecha Estimada
+                        </th>
+                        <th style="width:20%">
+                            Fecha Real
+                        </th>
+                        <th style="width:25%">
+                            Titulo
+                        </th>
+                        <th style="width:15%">
+                            Copia
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Alquiler.CodigoAlquiler)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Alquiler.FechaAlquiler)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Alquiler.FechaDevo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Alquiler.FechaRealDevolucion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Copia.Libro.TituloDeLibro)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Copia.NumeroCopia)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+
+    </div>
+
+    <!--MODAL BUSCAR CLIENTE-->
+    <div class="modal fade" id="bModal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="etiqueta">Búsqueda de Cliente</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="VistaParcial">
+                        @Html.Action("Busqueda", "Clientes")
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" id="btnAceptarBus" disabled="disabled" onclick="AceptarBusClick();">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/adminJS")
+    @Scripts.Render("~/bundles/prestamo")
+    @Scripts.Render("~/bundles/Busqueda")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/jquery.validate.js"></script>
+    @Scripts.Render("~/bundles/datatablejs")
+    <script src="~/Scripts/jquery-ui.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            DataTable()
+        });
+
+        function DataTable() {
+
+            $("#tablaPrestamo").DataTable({
+                "sDom": '<<"row view-filter"<"col-sm-12"<"pull-left"f><"pull-right"l>>>t<"row view-pager "<"col-sm-12"<"pull-left"i><"pull-right "p>>>>',
+                "iDisplayLength": 5,
+                "order": [],
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+            });
+        }
+
+
+        $(function () {
+
+
+            $("#tablaCliente").DataTable({
+                "sDom": '<<"row view-filter"<"col-sm-12"<"pull-left"f><"pull-right"l>>>t<"row view-pager "<"col-sm-12"<"pull-left"i><"pull-right "p>>>>',
+                "iDisplayLength": 5,
+                "order": [],
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+            });
+        });
+
+
+    </script>
+
+
+}

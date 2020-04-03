@@ -1,0 +1,203 @@
+﻿@{
+    ViewBag.Title = "Libros Alquilados";
+}
+
+@model IEnumerable<AlquilerDeLibros.Models.Extension.cLstAlquiler>
+@Styles.Render("~/Content/datatablecss")
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+@using (Html.BeginForm())
+{
+    <div class="col-md-offset-3">
+
+        <div class="row">
+            <div class="col-md-4">
+                @Html.Label("Codigo:")
+                @Html.TextBox("CodE")
+                <button type="button" id="btnBuscar" class="btn btn-primary" title="Búscar Cliente" data-toggle="modal" data-target="#bModal">
+                    <spam class="fas fa-search"> </spam>
+                </button>
+            </div>
+            <div class="col-md-4">
+                @Html.Label("Desde")
+                @Html.TextBox("Desde", "", new { @class = "calendario form-control" })
+            </div>
+            <div class="col-md-4">
+                @Html.Label("Hata")
+                @Html.TextBox("Hasta", "", new { @class = "calendario form-control" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-1">
+                <input type="submit" id="cargar" class="btn btn-default" value="Consultar" data-toggle="tooltip" title="Cargar los prestamos del Codigo" />
+                @if (ViewBag.idCli > 0 && ViewBag.hasta != "1900/01/01")
+                {
+                    <a target="_blank" href="@Url.Action("RptLibrosPrestados", "Informes", new { idCli = ViewBag.idCli, Desde = ViewBag.desde, Hasta = ViewBag.hasta, Nombre = ViewBag.Nombre})" class="btn btn-info">Ver Reporte</a>
+                }
+            </div>
+        </div>
+        <br /><br />
+
+        <div class="table-responsive">
+            <table class="table table-condensed table-bordered table-hover table-striped display dataTable_width_auto" id="tablaPrestamo">
+                <thead style="background-color:#337ab7; color:white;">
+                    <tr>
+                        <th>
+
+                            @Html.DisplayNameFor(model => model.Codigo)
+                        </th>
+                        <th>
+
+                            @Html.DisplayNameFor(model => model.Fecha_Alquiler)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Fecha_Devolucion)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Titulo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Numero_Copia)
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Codigo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Fecha_Alquiler)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Fecha_Devolucion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Titulo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Numero_Copia)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <div class="modal fade" id="bModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="etiqueta">TITULO</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="VistaParcial">
+                        @Html.Action("Busqueda", "Clientes")
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" id="btnAceptarBus" disabled="disabled" onclick="AceptarBusClick();">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/prestamo")
+    @Scripts.Render("~/bundles/Busqueda")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/datatablejs")
+
+    <script>
+        $(document).ready(function () {
+            DataTable()
+        });
+
+        function DataTable() {
+
+            $("#tablaPrestamo").DataTable({
+                "sDom": '<<"row view-filter"<"col-sm-12"<"pull-left"f><"pull-right"l>>>t<"row view-pager "<"col-sm-12"<"pull-left"i><"pull-right "p>>>>',
+                "iDisplayLength": 5,
+                "order": [],
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla =(",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+            });
+        }
+
+
+        var dataTableCliente = null;
+        $(function () {
+
+            dataTable = $("#tablaCliente").DataTable({
+                "sDom": '<<"row view-filter"<"col-sm-12"<"pull-left"f><"pull-right"l>>>t<"row view-pager "<"col-sm-12"<"pull-left"i><"pull-right "p>>>>',
+                "iDisplayLength": 5,
+                "order": [],
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla =(",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+            });
+        });
+
+
+    </script>
+}

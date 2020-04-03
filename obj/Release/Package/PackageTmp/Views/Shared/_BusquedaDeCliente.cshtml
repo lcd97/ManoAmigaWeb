@@ -1,0 +1,85 @@
+﻿@model IEnumerable<AlquilerDeLibros.Models.Cliente>
+
+<div class="form-horizontal">
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("Nombres:")
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("Nombres", null, new { id = "bNombres", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("Apellido:")
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("Apellido1", null, new { id = "bApellido1", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            @Ajax.ActionLink("Buscar", "Busqueda", "Clientes", new { Nombres = "_Nom_", Apellido1 = "_Ape1_" }, new AjaxOptions { UpdateTargetId = "VistaParcial", HttpMethod = "Get", InsertionMode = InsertionMode.Replace }, new { @class = "btn btn-info", id = "linkBuscarCli", onclick = "btnBuscarCli();" })
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("CliSeleccionado", null, new { id = "CliSeleccionado", disabled = "disabled", @class = "form-control" })
+        </div>
+    </div>
+    <br />
+
+    @*TablaCliente*@
+
+    <div class="table-responsive">
+        <table class="table table-condensed table-bordered table-hover table-striped display dataTable_width_auto" id="tablaCliente">
+            <thead style="background-color:#337ab7; color:white;">
+                <tr>
+                    <th>
+                        Selección
+                    </th>
+
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.CodigoDeCliente)
+                    </th>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.NombresDelCliente)
+                    </th>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.ApellidosDelCliente)
+                    </th>
+                    <th>
+                        Acciones
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <text><a href="#" onclick="SeleccionarCli('@item.CodigoDeCliente');">Seleccionar</a></text>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CodigoDeCliente)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NombresDelCliente)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ApellidosDelCliente)
+                        </td>
+                        <td>
+
+                            <a class="btn btn-primary" href="@Url.Action("Edit",new {id=item.Id })" role="button"><i class="fas fa-pencil-alt"></i></a>
+                            <a class="btn btn-danger" href="@Url.Action("Delete",new {id=item.Id })" role="button"><i class="fas fa-eye"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

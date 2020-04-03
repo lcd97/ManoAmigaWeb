@@ -1,0 +1,170 @@
+﻿@model AlquilerDeLibros.Models.Libro
+
+
+
+@{
+    ViewBag.Title = "Libro";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+<div class="container-fluid">
+
+    <div class="row">
+        <!--PRIMERA COLUMNA-->
+        <div class="col-lg-1 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/PRIMERA COLUMNA-->
+        <!--SEGUNDA COLUMNA-->
+        <div class="col-lg-10 col-6">
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">Detalle de Libro</h3>
+                </div>               
+                <form class="form-horizontal">
+                    <div class="card-body">
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.CodigoDeLibro, new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-5">
+                                @Html.EditorFor(model => model.CodigoDeLibro, new { HtmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                            </div>
+                            @Html.LabelFor(model => model.Portada, htmlAttributes: new { @class = "control-label offset-2" })
+
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-sm-9">
+                                <div class="form-group row">
+                                    @Html.LabelFor(model => model.TituloDeLibro, new { @class = "col-sm-2 col-form-label" })
+                                    <div class="col-sm-9">
+                                        @Html.EditorFor(model => model.TituloDeLibro, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                                    </div>
+                                </div>
+
+
+                                <div class="form-group row">
+                                    @Html.LabelFor(model => model.Autor, new { @class = "col-sm-2 col-form-label" })
+                                    <div class="col-sm-9">
+                                        @Html.EditorFor(model => model.Autor, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                                    </div>
+                                </div>
+
+                                <div class="form-group row">
+                                    @Html.LabelFor(model => model.ISBN, new { @class = "col-sm-2 col-form-label" })
+                                    <div class="col-sm-9">
+                                        @Html.EditorFor(model => model.ISBN, new { HtmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                <div class="col-lg-2">
+                                    <img width="100" src="@Url.Action("getImage", "Libros", new {id=Model.Id})" />
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.MateriaId, "Materia", htmlAttributes: new { @class = "col-sm-2 control-label" })
+                            <div class="col-lg-4">
+                                @Html.EditorFor(model => model.Materia.DescripcionDeMateria, new { HtmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                            </div>
+                            @Html.LabelFor(model => model.Descripcion, new { @class = "col-sm-2 col-form-label" })
+                            <div class="col-sm-4">
+                                @Html.TextAreaFor(model => model.Descripcion, new { @class = "form-control", @disabled = "disabled" } )
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--FOOTER-->
+                    <div class="card-footer float-left">
+                        <a class="btn btn-info" href="@Url.Action("Index","Libros")">Regresar</a>
+
+                    </div>
+                    <div class="card-footer float-right">
+                        <a class="btn btn-info" href="@Url.Action("Edit","Libros", new { id = Model.Id })">Editar</a>
+                    </div>
+                    <!--/FOOTER-->
+                </form>
+            </div>
+        </div>
+
+
+        <!--TERCERA COLUMNA-->
+        <div class="col-lg-1 col-6">
+            <div class="card card-info"></div>
+        </div>
+        <!--/TERCERA COLUMNA-->
+    </div>
+</div>
+
+
+
+@*<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Materia.CodigoDeMateria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Materia.CodigoDeMateria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoDeLibro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoDeLibro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TituloDeLibro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TituloDeLibro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ISBN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Autor)
+        </dd>
+
+        <dt>
+            <img width="100" src="@Url.Action("getImage", "Libros", new {id=Model.Id})" />
+        </dt>
+
+    </dl>
+    <div class="form-group">
+        <div class="col-md-12">
+            <a class="btn btn-info" href="@Url.Action("Index","Libros")">Regresar</a>
+            <input type="submit" value="Guardar" class="btn btn-success" />
+        </div>
+    </div>
+    <h4>@ViewBag.Error</h4>
+</div>*@

@@ -1,0 +1,149 @@
+﻿@model AlquilerDeLibros.Models.AlquilerView
+
+@{
+    ViewBag.Title = "Préstamo de Libros";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <h1 class="m-0 text-dark" style="text-align:center">@ViewBag.Title</h1>
+                <hr />
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content-header -->
+
+
+@using (Html.BeginForm("Index", "Prestamos", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+<div class="card-body">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group row">
+        @Html.LabelFor(model => model.Cliente.CodigoAlquiler, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-2">
+            @Html.EditorFor(model => model.Cliente.CodigoAlquiler, new { htmlAttributes = new { @class = "form-control", @maxlength = 3 } })
+            @Html.ValidationMessageFor(model => model.Cliente.CodigoAlquiler, "", new { @class = "text-danger" })
+        </div>
+        @Html.LabelFor(model => model.Cliente.FechaAlquiler, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-2">
+            @Html.EditorFor(model => model.Cliente.FechaAlquiler, new { htmlAttributes = new { @class = "form-control", @id = "date1", @type = "date" } })
+            @Html.ValidationMessageFor(model => model.Cliente.FechaAlquiler, "", new { @class = "text-danger" })
+        </div>
+        @Html.LabelFor(model => model.Cliente.FechaRealDevolucion, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-2">
+            @Html.EditorFor(model => model.Cliente.FechaDevo, new { htmlAttributes = new { @class = "form-control", @id = "date2" } })
+            @Html.ValidationMessageFor(model => model.Cliente.FechaDevo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-3 col-6">
+            <div class="card card-info"></div>
+        </div>
+
+        <div class="col-lg-7 offset-4">
+            <div class="form-group row">
+                @Html.Label("Cliente", htmlAttributes: new { @class = "control-label" })
+                <div class="col-md-6">
+                    @Html.DropDownList("Id", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+                    @Html.ValidationMessageFor(model => model.Cliente.Id, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group offset-1">
+                <button type="button" id="btnBuscar" class="btn btn-primary" title="Búscar Cliente" data-toggle="modal" data-target="#bModal">
+                    <spam class="fas fa-book"> </spam>
+                </button>
+                @Html.ActionLink("Regresar", "Principal", new { }, new { @class = "btn btn-info" })
+                <input type="submit" value="Guardar" class="btn btn-success" />
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-6">
+            <div class="card card-info"></div>
+        </div>
+    </div>
+
+    <!--BOTONES-->
+
+
+    <div class="card-body table-responsive p-0">
+
+
+        <table class="table table-hover" id="tabla" style="background-color:white">
+            <thead>
+                <tr>
+                    <th style="width:60%">
+                        @Html.DisplayNameFor(model => model.Titles.Copia.Libro.TituloDeLibro)
+                    </th>
+                    <th style="width:20%">
+                        @Html.DisplayNameFor(model => model.Titles.Copia.NumeroCopia)
+                    </th>
+                    <th style="width:20%">
+                        @Html.DisplayName("Acciones")
+                    </th>
+                </tr>
+            </thead>
+            @for (int i = 0; i < Model.CopiasLibro.Count; i++)
+            {
+                <tbody>
+                    <tr>
+                        <td style="width:60%">
+                            @Html.DisplayFor(modelItem => Model.CopiasLibro[i].TituloDeLibro)
+                        </td>
+                        <td style="width:20%">
+                            @Html.DisplayFor(modelItem => Model.CopiasLibro[i].NumeroCopia)
+                        </td>
+                        <td style="width:20%">
+                            <!--Aqui la accion borrar-->
+                        </td>
+                    </tr>
+                </tbody>
+            }
+
+        </table>
+
+    </div>
+
+
+    </div>
+    }
+
+    <!-- Modal -->
+    <div class="modal fade" id="bModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="etiqueta">Seleccionar Libro</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="VistaParcial">
+                        @Html.Action("AgregarLibro", "Prestamos")
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" id="btnAcpLib" disabled="disabled" onclick="AceptarLibro();">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts{
+        @Scripts.Render("~/bundles/prestamo")
+        @Scripts.Render("~/bundles/adminJS")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryval")
+
+    }

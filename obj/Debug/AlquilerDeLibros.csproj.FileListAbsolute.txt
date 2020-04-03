@@ -1,0 +1,1615 @@
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+F:\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\JosielCastillo\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AgregarFecha.resources
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.UpdateMigration.resources
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.DeleteMigration.resources
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.RestoreMigration.resources
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\JosielCastillo\Desktop\NUEVA VERSION\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AgregarFecha.resources
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.UpdateMigration.resources
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.DeleteMigration.resources
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.RestoreMigration.resources
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Proyectos\CorreccionesDevoluciones\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AgregarFecha.resources
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.UpdateMigration.resources
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.DeleteMigration.resources
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.RestoreMigration.resources
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Estudiante\Downloads\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialCreate.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AgregarFecha.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.UpdateMigration.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.DeleteMigration.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.RestoreMigration.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.TablaExtraMigrations.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.EmailClienteMigrations.resources
+C:\Users\Daniela\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SugerenciaMigrations.resources
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\SEGURIDAD\ROLES\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Proyecto Movil\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Estudiante\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Somee\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\App Biblioteca\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll.config
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\AlquilerDeLibros.pdb
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Owin.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Linq.Dynamic.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.InitialMigrations.resources
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.PerfilClienteMigration.resources
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.AdquisicionMigration.resources
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.Migrations.SqlMigrations.resources
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.dll
+C:\Users\Daniela\Desktop\Desktop x2\antes de entrega\Daniela's Work\AlquilerDeLibros\AlquilerDeLibros\obj\Debug\AlquilerDeLibros.pdb

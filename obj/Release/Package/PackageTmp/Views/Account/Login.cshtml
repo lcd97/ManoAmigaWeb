@@ -1,0 +1,58 @@
+﻿@using AlquilerDeLibros.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Iniciar sesión";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<link href="~/Content/AdminLTE.min.css" rel="stylesheet" />
+
+<div class="login-box">
+    <div class="login-logo">
+        <img src="~/Content/logo.png" width="100px" height="100px" />
+    </div>
+    <div class="login-logo">
+        <a href="#"><b>Proyecto</b></a>
+        <a href="#">Mano Amiga</a>
+    </div>
+
+    <div id="loginForm" class="login-box-body">
+        <p class="login-box-msg">Inicio de Sesión</p>
+        @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-at"></i></span>
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @type = "email", @placeholder = "Email" })
+            </div>
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+
+            <br /><br />
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+            </div>
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+            <br /><br />
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <input type="submit" value="Iniciar sesión" class="btn btn-primary btn-block btn-flat" />
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/jquery.min.js"></script>
+    <link href="~/plugins/fontawesome-free/css/all.min.css" rel="stylesheet" />
+}
